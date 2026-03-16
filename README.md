@@ -1,16 +1,96 @@
-## Hi there 👋
+# Guilherme Greg
 
-<!--
-**guilhermeleogregorio-ai/guilhermeleogregorio-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação focado em desenvolver uma base sólida em lógica de programação, algoritmos e desenvolvimento de software. Atualmente em processo de formação e construindo projetos práticos para fortalecer habilidades técnicas.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante e estou focado em aprender programação de forma consistente, priorizando o entendimento da lógica por trás dos algoritmos e não apenas a utilização de código pronto.
+
+Tenho interesse especial em desenvolvimento de software e em entender como os sistemas funcionam desde a base. Busco evoluir continuamente através de prática, estudos e desenvolvimento de projetos.
+
+## Tecnologias
+
+* C
+* Python
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## O que estou estudando atualmente
+
+* Lógica de programação
+* Algoritmos
+* Estruturas de controle
+* Manipulação de dados
+* Desenvolvimento web básico
+* Fundamentos de programação
+
+## Objetivos profissionais
+
+* Construir uma base sólida em desenvolvimento de software
+* Desenvolver projetos práticos para portfólio
+* Evoluir em lógica e resolução de problemas
+* Conquistar uma oportunidade de estágio na área de tecnologia
+
+## Repositórios
+
+Neste GitHub você encontrará:
+
+* Exercícios de lógica de programação
+* Projetos acadêmicos
+* Experimentos e estudos em programação
+* Pequenas aplicações para prática
+
+## Contato
+
+GitHub: # Guilherme Greg
+
+Estudante de Tecnologia da Informação focado em desenvolver uma base sólida em lógica de programação, algoritmos e desenvolvimento de software. Atualmente em processo de formação e construindo projetos práticos para fortalecer habilidades técnicas.
+
+## Sobre mim
+
+Sou estudante e estou focado em aprender programação de forma consistente, priorizando o entendimento da lógica por trás dos algoritmos e não apenas a utilização de código pronto.
+
+Tenho interesse especial em desenvolvimento de software e em entender como os sistemas funcionam desde a base. Busco evoluir continuamente através de prática, estudos e desenvolvimento de projetos.
+
+## Tecnologias
+
+* C
+* Python
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## O que estou estudando atualmente
+
+* Lógica de programação
+* Algoritmos
+* Estruturas de controle
+* Manipulação de dados
+* Desenvolvimento web básico
+* Fundamentos de programação
+
+## Objetivos profissionais
+
+* Construir uma base sólida em desenvolvimento de software
+* Desenvolver projetos práticos para portfólio
+* Evoluir em lógica e resolução de problemas
+* Conquistar uma oportunidade de estágio na área de tecnologia
+
+## Repositórios
+
+Neste GitHub você encontrará:
+
+* Exercícios de lógica de programação
+* Projetos acadêmicos
+* Experimentos e estudos em programação
+* Pequenas aplicações para prática
+
+## Contato
+
+GitHub: https://github.com/guilhermeleogregorio-ai
+
