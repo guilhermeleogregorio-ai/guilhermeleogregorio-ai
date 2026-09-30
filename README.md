@@ -1,96 +1,39 @@
-# Guilherme Greg
+# Guilherme Gregorio
 
-Estudante de Tecnologia da Informação focado em desenvolver uma base sólida em lógica de programação, algoritmos e desenvolvimento de software. Atualmente em processo de formação e construindo projetos práticos para fortalecer habilidades técnicas.
+### Estudante de Análise e Desenvolvimento de Sistemas no IFSP - São Carlos
 
-## Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP - São Carlos, atualmente no 3º semestre.
 
-Sou estudante e estou focado em aprender programação de forma consistente, priorizando o entendimento da lógica por trás dos algoritmos e não apenas a utilização de código pronto.
+Tenho estudado programação com foco em desenvolvimento de software, principalmente Java, C e Programação Orientada a Objetos. Também tenho conhecimentos em Python, JavaScript, HTML e CSS, adquiridos durante minha formação.
 
-Tenho interesse especial em desenvolvimento de software e em entender como os sistemas funcionam desde a base. Busco evoluir continuamente através de prática, estudos e desenvolvimento de projetos.
+### Tecnologias
 
-## Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</p>
 
-* C
-* Python
-* HTML
-* CSS
-* JavaScript
-* Git
-* GitHub
+Atualmente estou aprofundando meus estudos em Java e POO, além de Estruturas de Dados em C e Banco de Dados.
 
-## O que estou estudando atualmente
+### Formação
 
-* Lógica de programação
-* Algoritmos
-* Estruturas de controle
-* Manipulação de dados
-* Desenvolvimento web básico
-* Fundamentos de programação
+**Análise e Desenvolvimento de Sistemas**
+Instituto Federal de São Paulo - IFSP
 
-## Objetivos profissionais
+**Técnico em Administração de Empresas**
+ETEC de Ibaté
 
-* Construir uma base sólida em desenvolvimento de software
-* Desenvolver projetos práticos para portfólio
-* Evoluir em lógica e resolução de problemas
-* Conquistar uma oportunidade de estágio na área de tecnologia
+### Projetos
 
-## Repositórios
+Tenho utilizado este perfil para reunir meus projetos acadêmicos, exercícios e estudos desenvolvidos durante minha formação.
 
-Neste GitHub você encontrará:
+Entre eles estão exercícios de Java e POO, implementações de Estruturas de Dados em C e projetos desenvolvidos com Python, JavaScript, HTML e CSS.
 
-* Exercícios de lógica de programação
-* Projetos acadêmicos
-* Experimentos e estudos em programação
-* Pequenas aplicações para prática
+### Contato
 
-## Contato
-
-GitHub: # Guilherme Greg
-
-Estudante de Tecnologia da Informação focado em desenvolver uma base sólida em lógica de programação, algoritmos e desenvolvimento de software. Atualmente em processo de formação e construindo projetos práticos para fortalecer habilidades técnicas.
-
-## Sobre mim
-
-Sou estudante e estou focado em aprender programação de forma consistente, priorizando o entendimento da lógica por trás dos algoritmos e não apenas a utilização de código pronto.
-
-Tenho interesse especial em desenvolvimento de software e em entender como os sistemas funcionam desde a base. Busco evoluir continuamente através de prática, estudos e desenvolvimento de projetos.
-
-## Tecnologias
-
-* C
-* Python
-* HTML
-* CSS
-* JavaScript
-* Git
-* GitHub
-
-## O que estou estudando atualmente
-
-* Lógica de programação
-* Algoritmos
-* Estruturas de controle
-* Manipulação de dados
-* Desenvolvimento web básico
-* Fundamentos de programação
-
-## Objetivos profissionais
-
-* Construir uma base sólida em desenvolvimento de software
-* Desenvolver projetos práticos para portfólio
-* Evoluir em lógica e resolução de problemas
-* Conquistar uma oportunidade de estágio na área de tecnologia
-
-## Repositórios
-
-Neste GitHub você encontrará:
-
-* Exercícios de lógica de programação
-* Projetos acadêmicos
-* Experimentos e estudos em programação
-* Pequenas aplicações para prática
-
-## Contato
-
-GitHub: https://github.com/guilhermeleogregorio-ai
-
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/guilhermeleogregorio-ai)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-gregorio-7055051a1/)
