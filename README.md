@@ -1,6 +1,6 @@
  <div align="center">
 
-# Guilherme Gregório
+# Guilherme Gregorio
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | IFSP
 
