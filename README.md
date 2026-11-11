@@ -6,7 +6,7 @@
 
   <!-- SUBTÍTULO ESTILO TERMINAL -->
   <p>
-    <code>>_ ADS Student | Software Development</code>
+    <code>>_ Systems Analysis & Development Student | Aspiring Software Developer</code>
   </p>
 
   <!-- CONTATO -->
