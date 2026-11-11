@@ -117,16 +117,13 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td bgcolor="#0a0a0a">
-        <img
-          src="https://ghchart.rshah.org/b000ff/guilhermeleogregorio-ai"
-          alt="Contribuições"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    width="90%"
+    src="https://raw.githubusercontent.com/guilhermeleogregorio-ai/guilhermeleogregorio-ai/output/snake-dark.svg"
+    alt="Snake"
+  />
+
+  <br/><br/>
 
   <img
     width="90%"
@@ -134,6 +131,7 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
     alt="GitHub Streak Stats"
   />
 
+</div>
 </div>
 
 <!-- RODAPÉ -->
