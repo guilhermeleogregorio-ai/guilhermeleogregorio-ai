@@ -117,25 +117,24 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 
 <div align="center">
 
-<a href="https://github.com/guilhermeleogregorio-ai">
-  <img
-    width="90%"
-    src="https://raw.githubusercontent.com/guilhermeleogregorio-ai/guilhermeleogregorio-ai/output/snake-dark.svg?v=3"
-    alt="Snake"
-  />
-</a>
+  <a href="https://github.com/guilhermeleogregorio-ai">
+    <img
+      width="90%"
+      src="https://raw.githubusercontent.com/guilhermeleogregorio-ai/guilhermeleogregorio-ai/output/snake-dark.svg?v=3"
+      alt="Snake"
+    />
+  </a>
 
   <br/><br/>
 
-  <img
-    width="90%"
-    src="https://streak-stats.demolab.com/?user=guilhermeleogregorio-ai&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=ffffff&dates=888888&cache_seconds=21600&v=2"
-    alt="GitHub Streak Stats"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      width="90%"
+      src="./profile/streak.svg"
+      alt="GitHub Streak"
+    />
+  </a>
 
-[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
-
-</div>
 </div>
 
 <!-- RODAPÉ -->
