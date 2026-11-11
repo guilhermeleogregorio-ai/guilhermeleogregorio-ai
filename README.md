@@ -117,11 +117,13 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 
 <div align="center">
 
+<a href="https://github.com/guilhermeleogregorio-ai">
   <img
     width="90%"
-    src="https://raw.githubusercontent.com/guilhermeleogregorio-ai/guilhermeleogregorio-ai/output/snake-dark.svg"
+    src="https://raw.githubusercontent.com/guilhermeleogregorio-ai/guilhermeleogregorio-ai/output/snake-dark.svg?v=3"
     alt="Snake"
   />
+</a>
 
   <br/><br/>
 
