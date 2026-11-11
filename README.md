@@ -133,7 +133,7 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
     alt="GitHub Streak Stats"
   />
 
-  [![GitHub Streak](https://demolab.com)](https://git.io)
+[![GitHub Streak](https://vercel.app)](https://git.io/streak-stats)
 
 
 </div>
