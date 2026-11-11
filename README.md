@@ -46,44 +46,91 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 <!-- PROJETOS -->
 ### Projects
 
-<div align="center">
 
-  <a href="https://github.com/guilhermeleogregorio-ai/cotai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeleogregorio-ai&repo=cotai&theme=dark&bg_color=0a0a0a&border_color=b000ff&title_color=b000ff&icon_color=b000ff" />
-  </a>
+<h3 align="center">Projects</h3>
 
-  <a href="https://github.com/guilhermeleogregorio-ai/Projeto_APR2-Cinema-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeleogregorio-ai&repo=Projeto_APR2-Cinema-&theme=dark&bg_color=0a0a0a&border_color=b000ff&title_color=b000ff&icon_color=b000ff" />
-  </a>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Cotaí</h3>
+      <p align="center">
+        Assistente inteligente para cotações empresariais.
+      </p>
+      <p align="center">
+        <a href="https://github.com/guilhermeleogregorio-ai/cotai">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>SQLite</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sistema de Cinema</h3>
+      <p align="center">
+        Sistema CRUD desenvolvido em C.
+      </p>
+      <p align="center">
+        <a href="https://github.com/guilhermeleogregorio-ai/Projeto_APR2-Cinema-">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <code>C</code> <code>CRUD</code> <code>Memory Management</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Imobiliária</h3>
+      <p align="center">
+        Sistema de gerenciamento imobiliário.
+      </p>
+      <p align="center">
+        <a href="https://github.com/guilhermeleogregorio-ai/projetoAPL_Imobiliaria">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>JSON</code> <code>CRUD</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">To-do List</h3>
+      <p align="center">
+        Aplicação para gerenciamento de tarefas.
+      </p>
+      <p align="center">
+        <a href="https://github.com/guilhermeleogregorio-ai/To-do-list-javascript">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/guilhermeleogregorio-ai/projetoAPL_Imobiliaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeleogregorio-ai&repo=projetoAPL_Imobiliaria&theme=dark&bg_color=0a0a0a&border_color=b000ff&title_color=b000ff&icon_color=b000ff" />
-  </a>
-
-  <a href="https://github.com/guilhermeleogregorio-ai/To-do-list-javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeleogregorio-ai&repo=To-do-list-javascript&theme=dark&bg_color=0a0a0a&border_color=b000ff&title_color=b000ff&icon_color=b000ff" />
-  </a>
-
-</div>
 
 <br>
 
 <!-- ESTATÍSTICAS -->
 ### Statistics
 
+
+<h3 align="center">Statistics</h3>
+
 <div align="center">
 
-  <img width="95%" src="https://streak-stats.demolab.com/?user=guilhermeleogregorio-ai&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=888888&dates=888888" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=guilhermeleogregorio-ai&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=ffffff&dates=888888" />
 
   <br><br>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermeleogregorio-ai&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=b000ff&title_color=b000ff&icon_color=b000ff&text_color=ffffff&include_all_commits=true" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleogregorio-ai&layout=compact&theme=dark&bg_color=0a0a0a&border_color=b000ff&title_color=b000ff&text_color=ffffff" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeleogregorio-ai&bg_color=0a0a0a&color=b000ff&line=b000ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
-<br>
 
 <!-- RODAPÉ -->
 <div align="center">
