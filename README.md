@@ -46,9 +46,6 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 <!-- PROJETOS -->
 ### Projects
 
-
-<h3 align="center">Projects</h3>
-
 <table align="center">
   <tr>
     <td width="50%">
@@ -117,8 +114,6 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 
 <!-- ESTATÍSTICAS -->
 ### Statistics
-
-<h3 align="center">Statistics</h3>
 
 <div align="center">
 
