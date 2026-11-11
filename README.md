@@ -123,9 +123,8 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
     alt="GitHub Streak Stats"
   />
 
-  <div align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeleogregorio-ai&bg_color=0a0a0a&color=ffffff&line=b000ff&point=ffffff&area=true&area_color=b000ff&hide_border=true" alt="Activity Graph" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleogregorio-ai&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=b000ff&text_color=ffffff" alt="Top Languages" />
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeleogregorio-ai&bg_color=0a0a0a&color=ffffff&line=b000ff&point=ffffff&area=true&area_color=b000ff&hide_border=true" alt="Activity Graph" />
 </div>
 
 </div>
