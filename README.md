@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- BANNER SUPERIOR -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b000ff,100:0a0a0a&height=180&section=header&text=Guilherme%20Greg%C3%B3rio&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b000ff,100:0a0a0a&height=180&section=header&text=Guilherme%20Gregorio&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
   <!-- SUBTÍTULO ESTILO TERMINAL -->
   <p>
@@ -118,18 +118,19 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 <!-- ESTATÍSTICAS -->
 ### Statistics
 
-
 <h3 align="center">Statistics</h3>
 
 <div align="center">
 
-  <img width="90%" src="https://streak-stats.demolab.com/?user=guilhermeleogregorio-ai&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=ffffff&dates=888888" />
-
-  <br><br>
-
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeleogregorio-ai&bg_color=0a0a0a&color=b000ff&line=b000ff&point=ffffff&area=true&hide_border=true" />
+  <img
+    width="90%"
+    src="https://streak-stats.demolab.com/?user=guilhermeleogregorio-ai&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=ffffff&dates=888888"
+    alt="GitHub Streak Stats"
+  />
 
 </div>
+
+
 
 
 <!-- RODAPÉ -->
