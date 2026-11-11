@@ -117,13 +117,16 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 
 <div align="center">
 
-  <img
-    width="90%"
-    src="https://ghchart.rshah.org/b000ff/guilhermeleogregorio-ai"
-    alt="Contribuições"
-  />
-
-  <br/><br/>
+  <table>
+    <tr>
+      <td bgcolor="#0a0a0a">
+        <img
+          src="https://ghchart.rshah.org/b000ff/guilhermeleogregorio-ai"
+          alt="Contribuições"
+        />
+      </td>
+    </tr>
+  </table>
 
   <img
     width="90%"
