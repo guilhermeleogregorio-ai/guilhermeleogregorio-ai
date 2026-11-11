@@ -116,14 +116,6 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 ### Statistics
 
 <div align="center">
-
-  <img
-    width="90%"
-    src="https://streak-stats.demolab.com/?user=guilhermeleogregorio-ai&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=ffffff&dates=888888&cache_seconds=21600&v=2"
-    alt="GitHub Streak Stats"
-  />
-
-<div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeleogregorio-ai&bg_color=0a0a0a&color=ffffff&line=b000ff&point=ffffff&area=true&area_color=b000ff&hide_border=true" alt="Activity Graph" />
 </div>
 
