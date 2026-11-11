@@ -130,9 +130,6 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
 
 </div>
 
-
-
-
 <!-- RODAPÉ -->
 <div align="center">
 
