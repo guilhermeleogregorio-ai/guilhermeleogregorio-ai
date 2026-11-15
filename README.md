@@ -92,28 +92,22 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
         <code>Python</code> <code>JSON</code> <code>CRUD</code>
       </p>
     </td>
-  <p align="center">
-    <a href="https://github.com/guilhermeleogregorio-ai/project_ecommerce">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-  <p align="center">
-    <code>Python 3.12</code>
-    <code>FastAPI</code>
-    <code>SQLite (WAL Mode)</code>
-    <code>Pydantic</code>
-    <code>React 18</code>
-    <code>Vite</code>
-    <code>Tailwind CSS</code>
-    <code>JavaScript (ES6+)</code>
-    <code>Multi-Instance AI Agents</code>
-    <code>Atomic Stock Reservation</code>
-  </p>
+        <td width="50%">
+      <h3 align="center">Salesdrive</h3>
+      <p align="center">
+        E-commerce e orquestrador de IA para varejo físico local (Hackathon Tray).
+      </p>
+      <p align="center">
+        <a href="https://github.com/guilhermeleogregorio-ai/project_ecommerce">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Tailwind</code> <code>SQLite</code> <code>AI Agents</code>
+      </p>
     </td>
   </tr>
 </table>
-
-
 <br>
 
 <!-- ESTATÍSTICAS -->
