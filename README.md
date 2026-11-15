@@ -92,19 +92,23 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
         <code>Python</code> <code>JSON</code> <code>CRUD</code>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">To-do List</h3>
-      <p align="center">
-        Aplicação para gerenciamento de tarefas.
-      </p>
-      <p align="center">
-        <a href="https://github.com/guilhermeleogregorio-ai/To-do-list-javascript">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-      </p>
+  <p align="center">
+    <a href="https://github.com/guilhermeleogregorio-ai/project_ecommerce">
+      <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <p align="center">
+    <code>Python 3.12</code>
+    <code>FastAPI</code>
+    <code>SQLite (WAL Mode)</code>
+    <code>Pydantic</code>
+    <code>React 18</code>
+    <code>Vite</code>
+    <code>Tailwind CSS</code>
+    <code>JavaScript (ES6+)</code>
+    <code>Multi-Instance AI Agents</code>
+    <code>Atomic Stock Reservation</code>
+  </p>
     </td>
   </tr>
 </table>
