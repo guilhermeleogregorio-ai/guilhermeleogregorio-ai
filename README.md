@@ -26,7 +26,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas no IFSP – São Carlos**. Atualmente aprofundando meus conhecimentos em **Java, Programação Orientada a Objetos, Estruturas de Dados e Banco de Dados**.
 
-Tenho experiência acadêmica com C, Python, Java e JavaScript, desenvolvendo projetos envolvendo lógica de programação, CRUD, manipulação de dados e desenvolvimento de sistemas.
+Tenho experiência com C, Python, Java e JavaScript, em projetos de lógica de programação, CRUD, APIs e desenvolvimento de sistemas. Atualmente estudo **backend com Python (FastAPI)**.
 
 Participei de hackathons trabalhando em equipe:
 - **Hackathon Digitaly 03 – Guerra das IAs**: desenvolvimento do Cotaí, solução de cotações empresariais com agentes de IA, backend, frontend e banco de dados.
