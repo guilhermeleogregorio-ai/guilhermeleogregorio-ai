@@ -65,7 +65,7 @@ Participei de hackathons trabalhando em equipe:
       </p>
     </td>
             <td width="50%">
-      <h3 align="center">Salesdrive MVP (Hackathon Connect 7.0 – Tray)</h3>
+      <h3 align="center">Salesdrive</h3>
       <p align="center">
         E-commerce e orquestrador de IA para varejo físico local (Hackathon Tray).
       </p>
@@ -96,29 +96,20 @@ Participei de hackathons trabalhando em equipe:
       </p>
     </td>
       <td width="50%">
-      <h3 align="center">Sistema de Cinema</h3>
+      <h3 align="center">Delivery Pizzaria API</h3>
       <p align="center">
-        Sistema CRUD desenvolvido em C.
+        Projeto pessoal para aprender backend com Python
       </p>
       <p align="center">
-        <a href="https://github.com/guilhermeleogregorio-ai/Projeto_APR2-Cinema-">
+        <a href="https://github.com/guilhermeleogregorio-ai/deliveryAPI">
           <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        <code>C</code> <code>CRUD</code> <code>Memory Management</code>
+        <code>Python</code> <code>SQLite</code> <code>Memory Alembic</code>
       </p>
     </td>
   </tr>
-
-  ### Delivery Pizzaria API
-Projeto pessoal para aprender backend com Python: API para autenticação e gerenciamento de pedidos de uma pizzaria, com migrações de banco via Alembic.
-
-[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermeleogregorio-ai/deliveryAPI)
-
-`Python` `FastAPI` `SQLite` `Alembic`
-</table>
-<br>
 
 <!-- ESTATÍSTICAS -->
 ### Statistics
