@@ -28,7 +28,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas no IFSP – São Carlos**.
 
 Tenho experiência acadêmica com C, Python, Java e JavaScript, desenvolvendo projetos envolvendo lógica de programação, CRUD, manipulação de dados e desenvolvimento de sistemas.
 
-Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando em equipe no desenvolvimento do Cotaí, uma solução de cotações empresariais com agentes de inteligência artificial, backend, frontend e banco de dados.
+Participei de hackathons trabalhando em equipe:
+- **Hackathon Digitaly 03 – Guerra das IAs**: desenvolvimento do Cotaí, solução de cotações empresariais com agentes de IA, backend, frontend e banco de dados.
+- **Hackathon Connect 7.0 – Desafio Tray**: plataforma de e-commerce/força de vendas para ajudar pequenos varejistas locais a fazer a primeira venda online.
 
 <br>
 
@@ -63,7 +65,7 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
       </p>
     </td>
             <td width="50%">
-      <h3 align="center">Salesdrive</h3>
+      <h3 align="center">Salesdrive MVP (Hackathon Connect 7.0 – Tray)</h3>
       <p align="center">
         E-commerce e orquestrador de IA para varejo físico local (Hackathon Tray).
       </p>
@@ -108,6 +110,13 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
       </p>
     </td>
   </tr>
+
+  ### Delivery Pizzaria API
+Projeto pessoal para aprender backend com Python: API para autenticação e gerenciamento de pedidos de uma pizzaria, com migrações de banco via Alembic.
+
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermeleogregorio-ai/deliveryAPI)
+
+`Python` `FastAPI` `SQLite` `Alembic`
 </table>
 <br>
 
