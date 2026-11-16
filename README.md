@@ -110,6 +110,7 @@ Participei de hackathons trabalhando em equipe:
       </p>
     </td>
   </tr>
+  </table>
 
 <!-- ESTATÍSTICAS -->
 ### Statistics
