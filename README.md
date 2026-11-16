@@ -62,6 +62,20 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
         <code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>SQLite</code>
       </p>
     </td>
+            <td width="50%">
+      <h3 align="center">Salesdrive</h3>
+      <p align="center">
+        E-commerce e orquestrador de IA para varejo físico local (Hackathon Tray).
+      </p>
+      <p align="center">
+        <a href="https://github.com/guilhermeleogregorio-ai/project_ecommerce">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Tailwind</code> <code>SQLite</code> <code>AI Agents</code>
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">Sistema de Cinema</h3>
       <p align="center">
@@ -90,20 +104,6 @@ Também participei do **Hackathon Digitaly 03 – Guerra das IAs**, trabalhando 
       </p>
       <p align="center">
         <code>Python</code> <code>JSON</code> <code>CRUD</code>
-      </p>
-    </td>
-        <td width="50%">
-      <h3 align="center">Salesdrive</h3>
-      <p align="center">
-        E-commerce e orquestrador de IA para varejo físico local (Hackathon Tray).
-      </p>
-      <p align="center">
-        <a href="https://github.com/guilhermeleogregorio-ai/project_ecommerce">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-b000ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Tailwind</code> <code>SQLite</code> <code>AI Agents</code>
       </p>
     </td>
   </tr>
